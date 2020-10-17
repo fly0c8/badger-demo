@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32519048-c99e-442f-a4c7-261f11a2e853" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:/Program Files/Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1iyZpEAX8M6fkxF8KBn3VHEf0JU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="pebble_demo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="reactive.at/pebble_demo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build reactive.at/pebble_demo" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="pebble_demo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="reactive.at/pebble_demo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="756" y="430" width="1213" height="788" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602882213661">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="756" y="430" width="1213" height="788" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1602882213661" />
+    <state width="1666" height="266" key="GridCell.Tab.0.bottom" timestamp="1602885774202">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1666" height="266" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1602885774202" />
+    <state width="1666" height="266" key="GridCell.Tab.0.center" timestamp="1602885774202">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1666" height="266" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1602885774202" />
+    <state width="1666" height="266" key="GridCell.Tab.0.left" timestamp="1602885774202">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1666" height="266" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1602885774202" />
+    <state width="1666" height="266" key="GridCell.Tab.0.right" timestamp="1602885774202">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1666" height="266" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1602885774202" />
+    <state width="1666" height="266" key="GridCell.Tab.1.bottom" timestamp="1602885774203">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1666" height="266" key="GridCell.Tab.1.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1602885774203" />
+    <state width="1666" height="266" key="GridCell.Tab.1.center" timestamp="1602885774202">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1666" height="266" key="GridCell.Tab.1.center/0.0.3440.1400@0.0.3440.1400" timestamp="1602885774202" />
+    <state width="1666" height="266" key="GridCell.Tab.1.left" timestamp="1602885774202">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1666" height="266" key="GridCell.Tab.1.left/0.0.3440.1400@0.0.3440.1400" timestamp="1602885774202" />
+    <state width="1666" height="266" key="GridCell.Tab.1.right" timestamp="1602885774202">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1666" height="266" key="GridCell.Tab.1.right/0.0.3440.1400@0.0.3440.1400" timestamp="1602885774202" />
+    <state x="969" y="504" key="SettingsEditor" timestamp="1602882073886">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="969" y="504" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1602882073886" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/badger_demo.go</url>
+          <line>62</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
